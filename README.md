@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github solution](https://github.com/olanrewajuyusuf/Loopstudios-landing-page)
+- Live Site URL: [Netlify live site](https://wallewdev-loopstudio.netlify.app/)
 
 ## My process
 
