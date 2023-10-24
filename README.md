@@ -63,7 +63,7 @@ Still got a lot to learn and i believe i have the ability not to relent.
 
 ## Author
 
-- Website - [wallew_dev](https://www.wallewdev.netlify.app)
+- Website - [wallew_dev](https://wallewdev.netlify.app)
 - Frontend Mentor - [@olanrewajuyusuf](https://www.frontendmentor.io/profile/olanrewajuyusuf)
 - Twitter - [@WaliyyullahY](https://www.twitter.com/WaliyyullahY)
 
