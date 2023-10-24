@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Alata', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+nav {
+    left: 50%;
+    transform: translate(-50%);
+    color: #696969;
+}
+
+ul li:hover #shade {
+    background-color: white;
+}
+
+.shade {
+    cursor: pointer;
+}
+.shade:hover #line {
+    background-color: white;
+}
